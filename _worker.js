@@ -6,7 +6,8 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:443#优选－B',
-	'www.visa.com.tw:443#visa',
+	'www.visa.com.tw:443#visa.tw',
+	'www.visa.com:443#visa',
 	'www.udacity.com:443#udacity',
 	'www.visa.co.jp:443#visa.co.jp',
 	'download.yunzhongzhuan.com:443#yunzhongzhuan',
