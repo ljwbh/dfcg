@@ -9,7 +9,7 @@ let addresses = [
 	'www.visa.com.tw:443#visa',
 	'shopify.com:443#shopify',
 	'www.udacity.com:443#udacity',
-	'www.sean-now.com:443#sean-now',
+	'cdn-b100.xn--b6gac.eu.org:443#cdn-b100.xn--b6gac.eu.org',
 	'www.visa.co.jp:443#visa.co.jp',
 	'download.yunzhongzhuan.com:443#yunzhongzhuan',
 	'whatismyipaddress.com:443#whatismyipaddress',
