@@ -7,7 +7,6 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:443#优选－B',
 	'www.visa.com.tw:443#visa',
-	'shopify.com:443#shopify',
 	'www.udacity.com:443#udacity',
 	'www.visa.co.jp:443#visa.co.jp',
 	'download.yunzhongzhuan.com:443#yunzhongzhuan',
