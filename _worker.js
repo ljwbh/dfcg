@@ -10,6 +10,7 @@ let addresses = [
 	'gur.gov.ua:443#gur.gov.ua',
 	'www.wto.org:443#WTO',
 	'download.yunzhongzhuan.com:443#yunzhongzhuan',
+	'www.sean-now.com:443#sean-now'
 ];
 // 设置优选地址api接口
 let addressesapi = [
