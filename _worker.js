@@ -9,7 +9,6 @@ let addresses = [
 	'www.4chan.org:443#www.4chan.org',
 	'gur.gov.ua:443#gur.gov.ua',
 	'www.wto.org:443#WTO',
-	'www.visa.co.jp:443#visa.co.jp',
 	'download.yunzhongzhuan.com:443#yunzhongzhuan',
 ];
 // 设置优选地址api接口
