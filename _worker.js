@@ -8,9 +8,9 @@ let addresses = [
 	'ca.ljwbh.filegear-sg.me:443#优选－B',
 	'www.okcupid.com:443#okcupid',
 	'download.yunzhongzhuan.com:443#yunzhongzhuan.com',
-	'shopify.com:443#shopify.com',
+	'www.visa.com.hk:443#visa.com.hk',
 	'www.udacity.com:443#udacity.com',
-	'www.csgo.com:443#www.csgo.com',
+	'www.visa.com:443#visa.com',
 	'whatismyipaddress.com:443#whatismyipaddress.com',
 ];
 // 设置优选地址api接口
