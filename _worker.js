@@ -6,10 +6,13 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:443#优选－B',
-	'www.4chan.org:443#www.4chan.org',
-	'gur.gov.ua:443#gur.gov.ua',
-	'www.wto.org:443#WTO',
-	'download.yunzhongzhuan.com:443#yunzhongzhuan',
+	'www.okcupid.com:443#okcupid',
+	'download.yunzhongzhuan.com:443#yunzhongzhuan.com',
+	'shopify.com:443#shopify.com',
+	'www.udacity.com:443#udacity.com',
+	'www.sean-now.com:443#sean-now.com',
+	'www.csgo.com:443#www.csgo.com',
+	'whatismyipaddress.com:443#whatismyipaddress.com',
 ];
 // 设置优选地址api接口
 let addressesapi = [
