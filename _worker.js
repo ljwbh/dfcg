@@ -10,7 +10,6 @@ let addresses = [
 	'download.yunzhongzhuan.com:443#yunzhongzhuan.com',
 	'shopify.com:443#shopify.com',
 	'www.udacity.com:443#udacity.com',
-	'www.sean-now.com:443#sean-now.com',
 	'www.csgo.com:443#www.csgo.com',
 	'whatismyipaddress.com:443#whatismyipaddress.com',
 ];
