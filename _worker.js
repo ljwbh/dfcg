@@ -6,25 +6,12 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:443#优选－B',
-	'www.shopify.com:443#shopify',
-	'whatismyipaddress.com:443#whatismyipaddress',
-	'www.visa.com.tw:443#visa.tw',
-	'download.yunzhongzhuan.com:443#download.yunzhongzhuan',
-	'www.pcmag.com:443#pcmag',
-	'time.cloudflare.com:443#time.cloudflare',
 	'www.okcupid.com:443#okcupid',
-	'www.digitalocean.com:443#digitalocean',
-	'fbi.gov:443#fbi.gov',
-	'www.visa.co.jp:443#visa.co.jp',
-	'www.4chan.org:443#4chan.org',
-	'www.udacity.com:443#udacity',
-	'www.visa.com:443#visa',
-	'www.visa.com.hk:443#visa.hk',
-	'www.udemy.com:443#udemy',
-	'www.sean-now.com:443#sean-now',
-	'www.wto.org:443#wto.orgV
-	'edtunnel-dgp.pages.dev:443#edtunnel-dgp.pages.dev',
-	'www.visakorea.com:443#visakorea',
+	'download.yunzhongzhuan.com:443#yunzhongzhuan.com',
+	'www.visa.com.hk:443#visa.com.hk',
+	'www.udacity.com:443#udacity.com',
+	'www.visa.com:443#visa.com',
+	'whatismyipaddress.com:443#whatismyipaddress.com',
 ];
 // 设置优选地址api接口
 let addressesapi = [
